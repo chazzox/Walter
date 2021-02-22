@@ -1,0 +1,2 @@
+D:\documents\code\Walter\Debug\Walter.exe
+D:\documents\code\Walter\Debug\Walter.pdb
